@@ -142,7 +142,7 @@
     (property "Value" "RTL8722DM" (at 15.24 -29.21 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 41.91 -5.08 0)
+    (property "Footprint" "Package_DFN_QFN-project:QFN-88_EP_10x10_Pitch0.4mm" (at 41.91 -5.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 41.91 -5.08 0)
